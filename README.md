@@ -33,3 +33,7 @@ This project presents an interactive Power BI dashboard built using the Daibiko 
 
 ## Project Outcome
 Developed an interactive dashboard that converts raw manufacturing data into meaningful insights for business decision-making.
+
+## Dashboard Preview
+
+[Daibiko Dashboard](project.png.png)
